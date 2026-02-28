@@ -1,16 +1,38 @@
-## Hi there 👋
+# SolomonAkaleme
 
-<!--
-**SolomonAkaleme/SolomonAkaleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ethical Hacker | Network & Web Security | Security Automation with Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Core Skills
+
+- Web Application Penetration Testing (SQLi, Clickjacking, API testing)  
+- Network Security & Topology (Cisco Packet Tracer, Nmap scans)  
+- Wireless Security Testing (Aircrack-ng, WPA/WPA2 auditing)  
+- Traffic Analysis & Packet Inspection (Wireshark)  
+- Cloud Security & IAM Policies (AWS)  
+- Python Security Automation Tools  
+
+---
+
+## 📂 Projects & Tools
+
+- **Clickjacking Scanner (Python)** – Detects X-Frame-Options misconfigurations  
+- **Password Strength Analyzer (Python)** – Evaluates password complexity  
+- **Network Topology Labs** – Cisco Packet Tracer designs and scans  
+- **Web Application Testing** – Burp Suite methodology and notes  
+- **Recon & OSINT** – Nmap, Shodan, WHOIS investigations  
+- **Traffic Analysis** – TCP/IP inspection with Wireshark  
+- **Cloud Security Labs** – AWS IAM & access control configurations  
+
+---
+
+## 🌍 Contact & Profiles
+
+- LinkedIn:(https://www.linkedin.com/in/akaleme-ikenna-solomon-solomon-a87583362?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Twitter: https://x.com/SolomonIke18225
+  
+---
+
+> Junior Ethical Hacker | Hands-on experience across web, network, wireless, and pentesting.  
+> Continuously improving skills through practical labs and automation.
