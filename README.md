@@ -31,6 +31,7 @@ Ethical Hacker | Network & Web Security | Security Automation with Python
 
 - LinkedIn:https://www.linkedin.com/in/akaleme-ikenna-solomon-solomon-a87583362
 - Twitter:https://x.com/SolomonIke18225
+- Email: ikennasolomon472@gmail.com
   
 ---
 
